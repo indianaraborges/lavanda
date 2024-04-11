@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0:
+    }
+    body{
+font-family: `poppinns`-sans-serif
+    }
+    .cabecalho{
+        background-color: #af1f9c;
+        color: #af1f9c;
+        display: flex;
+        justify-content: space-around;
+        aling-itens:center;
+        padding:24px 0.
+
+    }
+    .cabecalho-imagem{
+        width:10%
+    }
